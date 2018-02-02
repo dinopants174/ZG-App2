@@ -1,0 +1,24 @@
+#header{
+  text-align: center;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+button{
+  font-size:18px; 
+  background-color: white;
+}
+
+#footer{
+  text-align: center;
+  width: 100%;
+}
+
+#coloredSquare{
+  display: block;
+  height: 30px;
+  width: 30px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 20px;
+  position: relative;
+}
